@@ -1,0 +1,14 @@
+<suite name = "LoginSuite">
+
+	<listeners>
+		<listener class-name="utilities.ListenerClass" />
+	</listeners>
+	
+	<test name="LoginTest">
+		<classes>
+			<class> name = "test.LoginTest"</class>
+		</classes>
+	</test>
+
+
+</suite>
